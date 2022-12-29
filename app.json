@@ -1,12 +1,12 @@
 {
   "expo": {
-    "name": "my-app",
-    "slug": "my-app",
+    "name": "loyalsi",
+    "slug": "loyalsi",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assests/icon.png",
     "splash": {
-      "image": "./assets/splash.png",
+      "image": "./assests/splash.png",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
@@ -21,12 +21,12 @@
     },
     "android": {
       "adaptiveIcon": {
-        "foregroundImage": "./assets/adaptive-icon.png",
+        "foregroundImage": "./assests/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
       }
     },
     "web": {
-      "favicon": "./assets/favicon.png"
+      "favicon": "./assests/favicon.png"
     }
   }
 }
